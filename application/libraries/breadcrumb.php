@@ -11,6 +11,8 @@ if (!defined('BASEPATH'))
  * 
  * @access Load the library, then $this->breadcrumb->generate()
  * 
+ * @link https://github.com/devrijal/Codeigniter-auto-breadcrumb
+ * 
  * Created since august 2015
  * 
  */
